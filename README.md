@@ -12,4 +12,4 @@ Aplicação de viagens Couchsurfing.
 
 
 
-<img src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" width="500" alt="Logo Digital Innovation one"/>
+<img src="https://github.com/AnGaIs/MeuVoo/blob/master/interface.png" width="500" alt="Logo Digital Innovation one"/>
